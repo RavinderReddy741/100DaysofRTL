@@ -14,3 +14,5 @@ Day3:Four bit Ripple Carry Adder
 Day4:Carry Look Ahead Adder
 
 Day5:Carry Select Adder
+
+Day6:Carry Skip Adder
