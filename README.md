@@ -22,3 +22,7 @@ Day7:Multiplexers(9x1,4x1,3x1,2x1)
 Day8:Decoders and Encoders
 
 Day9:Demultiplexers
+
+Day10:Comparators
+
+
